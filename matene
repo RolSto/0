@@ -1,0 +1,13 @@
+include <iostream>
+using namespace std;
+int main ()
+{
+    int x, y, b, g;
+        cout << "Īevadi divus skaitlus!!!" << endl;
+            cin >> x, y;
+    b = x + y;
+    g = x / y;
+        cout << "Skaitlu summa ir: " << b << "un dalijums ir: " << endl;
+        
+return 0;
+}
